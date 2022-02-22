@@ -1,0 +1,44 @@
+@font-face {
+    font-family: helvetic;
+    src: url(../fonts/Linotype\ -\ Helvetica\ Neue\ World\ 45\ Lt_0.ttf);
+}
+
+nav div ul li a {
+    font-family: helvetic;
+    font-size: 20px;
+}
+
+#home div h2 {
+    font-size: 5.5vw;
+    font-family: helvetic;
+    font-weight: bolder;
+}
+
+#home div img {
+    margin-top: 20px;
+}
+
+#about div div div:nth-child(2) h1 {
+    font-family: helvetic;
+}
+
+#about div div div:nth-child(2) p {
+    font-family: helvetic;
+}
+
+.work div {
+    font-family: helvetic;
+}
+
+#contact h1 {
+    font-family: helvetic;
+    font-size: 3vw;
+}
+
+form input::placeholder, form textarea::placeholder {
+    font-family: helvetic;
+}
+
+form button {
+    font-family: helvetic;
+}
